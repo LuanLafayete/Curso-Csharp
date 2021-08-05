@@ -1,7 +1,7 @@
 using System;
 using System.Globalization;
 
-namespace area_perimetro_diagonal
+namespace Esfera
 {
     class Program
     {

@@ -1,0 +1,16 @@
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\PrecoDoMetroQuadrado\PrecoDoMetroQuadrado\obj\Debug\net5.0\PrecoDoMetroQuadrado.csproj.AssemblyReference.cache
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\PrecoDoMetroQuadrado\PrecoDoMetroQuadrado\obj\Debug\net5.0\PrecoDoMetroQuadrado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\PrecoDoMetroQuadrado\PrecoDoMetroQuadrado\obj\Debug\net5.0\PrecoDoMetroQuadrado.AssemblyInfoInputs.cache
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\PrecoDoMetroQuadrado\PrecoDoMetroQuadrado\obj\Debug\net5.0\PrecoDoMetroQuadrado.AssemblyInfo.cs
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\PrecoDoMetroQuadrado\PrecoDoMetroQuadrado\obj\Debug\net5.0\PrecoDoMetroQuadrado.csproj.CoreCompileInputs.cache
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\PrecoDoMetroQuadrado\PrecoDoMetroQuadrado\bin\Debug\net5.0\PrecoDoMetroQuadrado.exe
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\PrecoDoMetroQuadrado\PrecoDoMetroQuadrado\bin\Debug\net5.0\PrecoDoMetroQuadrado.deps.json
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\PrecoDoMetroQuadrado\PrecoDoMetroQuadrado\bin\Debug\net5.0\PrecoDoMetroQuadrado.runtimeconfig.json
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\PrecoDoMetroQuadrado\PrecoDoMetroQuadrado\bin\Debug\net5.0\PrecoDoMetroQuadrado.runtimeconfig.dev.json
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\PrecoDoMetroQuadrado\PrecoDoMetroQuadrado\bin\Debug\net5.0\PrecoDoMetroQuadrado.dll
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\PrecoDoMetroQuadrado\PrecoDoMetroQuadrado\bin\Debug\net5.0\ref\PrecoDoMetroQuadrado.dll
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\PrecoDoMetroQuadrado\PrecoDoMetroQuadrado\bin\Debug\net5.0\PrecoDoMetroQuadrado.pdb
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\PrecoDoMetroQuadrado\PrecoDoMetroQuadrado\obj\Debug\net5.0\PrecoDoMetroQuadrado.dll
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\PrecoDoMetroQuadrado\PrecoDoMetroQuadrado\obj\Debug\net5.0\ref\PrecoDoMetroQuadrado.dll
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\PrecoDoMetroQuadrado\PrecoDoMetroQuadrado\obj\Debug\net5.0\PrecoDoMetroQuadrado.pdb
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\PrecoDoMetroQuadrado\PrecoDoMetroQuadrado\obj\Debug\net5.0\PrecoDoMetroQuadrado.genruntimeconfig.cache

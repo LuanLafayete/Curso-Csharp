@@ -1,0 +1,16 @@
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\Soma_De_Dois_Produtos\Soma_De_Dois_Produtos\bin\Debug\net5.0\Soma_De_Dois_Produtos.exe
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\Soma_De_Dois_Produtos\Soma_De_Dois_Produtos\bin\Debug\net5.0\Soma_De_Dois_Produtos.deps.json
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\Soma_De_Dois_Produtos\Soma_De_Dois_Produtos\bin\Debug\net5.0\Soma_De_Dois_Produtos.runtimeconfig.json
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\Soma_De_Dois_Produtos\Soma_De_Dois_Produtos\bin\Debug\net5.0\Soma_De_Dois_Produtos.runtimeconfig.dev.json
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\Soma_De_Dois_Produtos\Soma_De_Dois_Produtos\bin\Debug\net5.0\Soma_De_Dois_Produtos.dll
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\Soma_De_Dois_Produtos\Soma_De_Dois_Produtos\bin\Debug\net5.0\ref\Soma_De_Dois_Produtos.dll
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\Soma_De_Dois_Produtos\Soma_De_Dois_Produtos\bin\Debug\net5.0\Soma_De_Dois_Produtos.pdb
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\Soma_De_Dois_Produtos\Soma_De_Dois_Produtos\obj\Debug\net5.0\Soma_De_Dois_Produtos.csproj.AssemblyReference.cache
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\Soma_De_Dois_Produtos\Soma_De_Dois_Produtos\obj\Debug\net5.0\Soma_De_Dois_Produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\Soma_De_Dois_Produtos\Soma_De_Dois_Produtos\obj\Debug\net5.0\Soma_De_Dois_Produtos.AssemblyInfoInputs.cache
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\Soma_De_Dois_Produtos\Soma_De_Dois_Produtos\obj\Debug\net5.0\Soma_De_Dois_Produtos.AssemblyInfo.cs
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\Soma_De_Dois_Produtos\Soma_De_Dois_Produtos\obj\Debug\net5.0\Soma_De_Dois_Produtos.csproj.CoreCompileInputs.cache
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\Soma_De_Dois_Produtos\Soma_De_Dois_Produtos\obj\Debug\net5.0\Soma_De_Dois_Produtos.dll
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\Soma_De_Dois_Produtos\Soma_De_Dois_Produtos\obj\Debug\net5.0\ref\Soma_De_Dois_Produtos.dll
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\Soma_De_Dois_Produtos\Soma_De_Dois_Produtos\obj\Debug\net5.0\Soma_De_Dois_Produtos.pdb
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\Soma_De_Dois_Produtos\Soma_De_Dois_Produtos\obj\Debug\net5.0\Soma_De_Dois_Produtos.genruntimeconfig.cache

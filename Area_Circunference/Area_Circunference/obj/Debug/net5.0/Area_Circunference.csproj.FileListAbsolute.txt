@@ -1,0 +1,15 @@
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\Area_Circunference\Area_Circunference\bin\Debug\net5.0\Area_Circunference.exe
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\Area_Circunference\Area_Circunference\bin\Debug\net5.0\Area_Circunference.deps.json
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\Area_Circunference\Area_Circunference\bin\Debug\net5.0\Area_Circunference.runtimeconfig.json
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\Area_Circunference\Area_Circunference\bin\Debug\net5.0\Area_Circunference.runtimeconfig.dev.json
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\Area_Circunference\Area_Circunference\bin\Debug\net5.0\Area_Circunference.dll
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\Area_Circunference\Area_Circunference\bin\Debug\net5.0\ref\Area_Circunference.dll
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\Area_Circunference\Area_Circunference\bin\Debug\net5.0\Area_Circunference.pdb
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\Area_Circunference\Area_Circunference\obj\Debug\net5.0\Area_Circunference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\Area_Circunference\Area_Circunference\obj\Debug\net5.0\Area_Circunference.AssemblyInfoInputs.cache
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\Area_Circunference\Area_Circunference\obj\Debug\net5.0\Area_Circunference.AssemblyInfo.cs
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\Area_Circunference\Area_Circunference\obj\Debug\net5.0\Area_Circunference.csproj.CoreCompileInputs.cache
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\Area_Circunference\Area_Circunference\obj\Debug\net5.0\Area_Circunference.dll
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\Area_Circunference\Area_Circunference\obj\Debug\net5.0\ref\Area_Circunference.dll
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\Area_Circunference\Area_Circunference\obj\Debug\net5.0\Area_Circunference.pdb
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\Area_Circunference\Area_Circunference\obj\Debug\net5.0\Area_Circunference.genruntimeconfig.cache

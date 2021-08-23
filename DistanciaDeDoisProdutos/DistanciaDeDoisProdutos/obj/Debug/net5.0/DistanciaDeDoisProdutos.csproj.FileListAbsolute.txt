@@ -1,0 +1,16 @@
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\DistanciaDeDoisProdutos\DistanciaDeDoisProdutos\bin\Debug\net5.0\DistanciaDeDoisProdutos.exe
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\DistanciaDeDoisProdutos\DistanciaDeDoisProdutos\bin\Debug\net5.0\DistanciaDeDoisProdutos.deps.json
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\DistanciaDeDoisProdutos\DistanciaDeDoisProdutos\bin\Debug\net5.0\DistanciaDeDoisProdutos.runtimeconfig.json
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\DistanciaDeDoisProdutos\DistanciaDeDoisProdutos\bin\Debug\net5.0\DistanciaDeDoisProdutos.runtimeconfig.dev.json
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\DistanciaDeDoisProdutos\DistanciaDeDoisProdutos\bin\Debug\net5.0\DistanciaDeDoisProdutos.dll
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\DistanciaDeDoisProdutos\DistanciaDeDoisProdutos\bin\Debug\net5.0\ref\DistanciaDeDoisProdutos.dll
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\DistanciaDeDoisProdutos\DistanciaDeDoisProdutos\bin\Debug\net5.0\DistanciaDeDoisProdutos.pdb
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\DistanciaDeDoisProdutos\DistanciaDeDoisProdutos\obj\Debug\net5.0\DistanciaDeDoisProdutos.csproj.AssemblyReference.cache
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\DistanciaDeDoisProdutos\DistanciaDeDoisProdutos\obj\Debug\net5.0\DistanciaDeDoisProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\DistanciaDeDoisProdutos\DistanciaDeDoisProdutos\obj\Debug\net5.0\DistanciaDeDoisProdutos.AssemblyInfoInputs.cache
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\DistanciaDeDoisProdutos\DistanciaDeDoisProdutos\obj\Debug\net5.0\DistanciaDeDoisProdutos.AssemblyInfo.cs
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\DistanciaDeDoisProdutos\DistanciaDeDoisProdutos\obj\Debug\net5.0\DistanciaDeDoisProdutos.csproj.CoreCompileInputs.cache
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\DistanciaDeDoisProdutos\DistanciaDeDoisProdutos\obj\Debug\net5.0\DistanciaDeDoisProdutos.dll
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\DistanciaDeDoisProdutos\DistanciaDeDoisProdutos\obj\Debug\net5.0\ref\DistanciaDeDoisProdutos.dll
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\DistanciaDeDoisProdutos\DistanciaDeDoisProdutos\obj\Debug\net5.0\DistanciaDeDoisProdutos.pdb
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\DistanciaDeDoisProdutos\DistanciaDeDoisProdutos\obj\Debug\net5.0\DistanciaDeDoisProdutos.genruntimeconfig.cache

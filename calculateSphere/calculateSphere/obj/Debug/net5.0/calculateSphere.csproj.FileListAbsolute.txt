@@ -1,0 +1,16 @@
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\calculateSphere\calculateSphere\bin\Debug\net5.0\calculateSphere.exe
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\calculateSphere\calculateSphere\bin\Debug\net5.0\calculateSphere.deps.json
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\calculateSphere\calculateSphere\bin\Debug\net5.0\calculateSphere.runtimeconfig.json
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\calculateSphere\calculateSphere\bin\Debug\net5.0\calculateSphere.runtimeconfig.dev.json
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\calculateSphere\calculateSphere\bin\Debug\net5.0\calculateSphere.dll
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\calculateSphere\calculateSphere\bin\Debug\net5.0\ref\calculateSphere.dll
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\calculateSphere\calculateSphere\bin\Debug\net5.0\calculateSphere.pdb
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\calculateSphere\calculateSphere\obj\Debug\net5.0\calculateSphere.csproj.AssemblyReference.cache
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\calculateSphere\calculateSphere\obj\Debug\net5.0\calculateSphere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\calculateSphere\calculateSphere\obj\Debug\net5.0\calculateSphere.AssemblyInfoInputs.cache
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\calculateSphere\calculateSphere\obj\Debug\net5.0\calculateSphere.AssemblyInfo.cs
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\calculateSphere\calculateSphere\obj\Debug\net5.0\calculateSphere.csproj.CoreCompileInputs.cache
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\calculateSphere\calculateSphere\obj\Debug\net5.0\calculateSphere.dll
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\calculateSphere\calculateSphere\obj\Debug\net5.0\ref\calculateSphere.dll
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\calculateSphere\calculateSphere\obj\Debug\net5.0\calculateSphere.pdb
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\calculateSphere\calculateSphere\obj\Debug\net5.0\calculateSphere.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\multiplication\multiplication\bin\Debug\net5.0\multiplication.exe
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\multiplication\multiplication\bin\Debug\net5.0\multiplication.deps.json
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\multiplication\multiplication\bin\Debug\net5.0\multiplication.runtimeconfig.json
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\multiplication\multiplication\bin\Debug\net5.0\multiplication.runtimeconfig.dev.json
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\multiplication\multiplication\bin\Debug\net5.0\multiplication.dll
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\multiplication\multiplication\bin\Debug\net5.0\ref\multiplication.dll
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\multiplication\multiplication\bin\Debug\net5.0\multiplication.pdb
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\multiplication\multiplication\obj\Debug\net5.0\multiplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\multiplication\multiplication\obj\Debug\net5.0\multiplication.AssemblyInfoInputs.cache
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\multiplication\multiplication\obj\Debug\net5.0\multiplication.AssemblyInfo.cs
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\multiplication\multiplication\obj\Debug\net5.0\multiplication.csproj.CoreCompileInputs.cache
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\multiplication\multiplication\obj\Debug\net5.0\multiplication.dll
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\multiplication\multiplication\obj\Debug\net5.0\ref\multiplication.dll
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\multiplication\multiplication\obj\Debug\net5.0\multiplication.pdb
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\multiplication\multiplication\obj\Debug\net5.0\multiplication.genruntimeconfig.cache

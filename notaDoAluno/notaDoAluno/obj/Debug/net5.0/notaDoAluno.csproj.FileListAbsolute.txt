@@ -1,0 +1,16 @@
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\notaDoAluno\notaDoAluno\bin\Debug\net5.0\notaDoAluno.exe
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\notaDoAluno\notaDoAluno\bin\Debug\net5.0\notaDoAluno.deps.json
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\notaDoAluno\notaDoAluno\bin\Debug\net5.0\notaDoAluno.runtimeconfig.json
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\notaDoAluno\notaDoAluno\bin\Debug\net5.0\notaDoAluno.runtimeconfig.dev.json
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\notaDoAluno\notaDoAluno\bin\Debug\net5.0\notaDoAluno.dll
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\notaDoAluno\notaDoAluno\bin\Debug\net5.0\ref\notaDoAluno.dll
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\notaDoAluno\notaDoAluno\bin\Debug\net5.0\notaDoAluno.pdb
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\notaDoAluno\notaDoAluno\obj\Debug\net5.0\notaDoAluno.csproj.AssemblyReference.cache
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\notaDoAluno\notaDoAluno\obj\Debug\net5.0\notaDoAluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\notaDoAluno\notaDoAluno\obj\Debug\net5.0\notaDoAluno.AssemblyInfoInputs.cache
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\notaDoAluno\notaDoAluno\obj\Debug\net5.0\notaDoAluno.AssemblyInfo.cs
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\notaDoAluno\notaDoAluno\obj\Debug\net5.0\notaDoAluno.csproj.CoreCompileInputs.cache
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\notaDoAluno\notaDoAluno\obj\Debug\net5.0\notaDoAluno.dll
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\notaDoAluno\notaDoAluno\obj\Debug\net5.0\ref\notaDoAluno.dll
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\notaDoAluno\notaDoAluno\obj\Debug\net5.0\notaDoAluno.pdb
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\notaDoAluno\notaDoAluno\obj\Debug\net5.0\notaDoAluno.genruntimeconfig.cache

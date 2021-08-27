@@ -1,0 +1,15 @@
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\mesDeAniversarioSwitchCase\mesDeAniversarioSwitchCase\bin\Debug\net5.0\mesDeAniversarioSwitchCase.exe
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\mesDeAniversarioSwitchCase\mesDeAniversarioSwitchCase\bin\Debug\net5.0\mesDeAniversarioSwitchCase.deps.json
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\mesDeAniversarioSwitchCase\mesDeAniversarioSwitchCase\bin\Debug\net5.0\mesDeAniversarioSwitchCase.runtimeconfig.json
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\mesDeAniversarioSwitchCase\mesDeAniversarioSwitchCase\bin\Debug\net5.0\mesDeAniversarioSwitchCase.runtimeconfig.dev.json
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\mesDeAniversarioSwitchCase\mesDeAniversarioSwitchCase\bin\Debug\net5.0\mesDeAniversarioSwitchCase.dll
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\mesDeAniversarioSwitchCase\mesDeAniversarioSwitchCase\bin\Debug\net5.0\ref\mesDeAniversarioSwitchCase.dll
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\mesDeAniversarioSwitchCase\mesDeAniversarioSwitchCase\bin\Debug\net5.0\mesDeAniversarioSwitchCase.pdb
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\mesDeAniversarioSwitchCase\mesDeAniversarioSwitchCase\obj\Debug\net5.0\mesDeAniversarioSwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\mesDeAniversarioSwitchCase\mesDeAniversarioSwitchCase\obj\Debug\net5.0\mesDeAniversarioSwitchCase.AssemblyInfoInputs.cache
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\mesDeAniversarioSwitchCase\mesDeAniversarioSwitchCase\obj\Debug\net5.0\mesDeAniversarioSwitchCase.AssemblyInfo.cs
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\mesDeAniversarioSwitchCase\mesDeAniversarioSwitchCase\obj\Debug\net5.0\mesDeAniversarioSwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\mesDeAniversarioSwitchCase\mesDeAniversarioSwitchCase\obj\Debug\net5.0\mesDeAniversarioSwitchCase.dll
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\mesDeAniversarioSwitchCase\mesDeAniversarioSwitchCase\obj\Debug\net5.0\ref\mesDeAniversarioSwitchCase.dll
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\mesDeAniversarioSwitchCase\mesDeAniversarioSwitchCase\obj\Debug\net5.0\mesDeAniversarioSwitchCase.pdb
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\mesDeAniversarioSwitchCase\mesDeAniversarioSwitchCase\obj\Debug\net5.0\mesDeAniversarioSwitchCase.genruntimeconfig.cache

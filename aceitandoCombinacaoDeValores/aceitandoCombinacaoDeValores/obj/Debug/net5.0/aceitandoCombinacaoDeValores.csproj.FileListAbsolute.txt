@@ -1,0 +1,16 @@
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\aceitandoCombinacaoDeValores\aceitandoCombinacaoDeValores\bin\Debug\net5.0\aceitandoCombinacaoDeValores.exe
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\aceitandoCombinacaoDeValores\aceitandoCombinacaoDeValores\bin\Debug\net5.0\aceitandoCombinacaoDeValores.deps.json
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\aceitandoCombinacaoDeValores\aceitandoCombinacaoDeValores\bin\Debug\net5.0\aceitandoCombinacaoDeValores.runtimeconfig.json
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\aceitandoCombinacaoDeValores\aceitandoCombinacaoDeValores\bin\Debug\net5.0\aceitandoCombinacaoDeValores.runtimeconfig.dev.json
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\aceitandoCombinacaoDeValores\aceitandoCombinacaoDeValores\bin\Debug\net5.0\aceitandoCombinacaoDeValores.dll
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\aceitandoCombinacaoDeValores\aceitandoCombinacaoDeValores\bin\Debug\net5.0\ref\aceitandoCombinacaoDeValores.dll
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\aceitandoCombinacaoDeValores\aceitandoCombinacaoDeValores\bin\Debug\net5.0\aceitandoCombinacaoDeValores.pdb
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\aceitandoCombinacaoDeValores\aceitandoCombinacaoDeValores\obj\Debug\net5.0\aceitandoCombinacaoDeValores.csproj.AssemblyReference.cache
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\aceitandoCombinacaoDeValores\aceitandoCombinacaoDeValores\obj\Debug\net5.0\aceitandoCombinacaoDeValores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\aceitandoCombinacaoDeValores\aceitandoCombinacaoDeValores\obj\Debug\net5.0\aceitandoCombinacaoDeValores.AssemblyInfoInputs.cache
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\aceitandoCombinacaoDeValores\aceitandoCombinacaoDeValores\obj\Debug\net5.0\aceitandoCombinacaoDeValores.AssemblyInfo.cs
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\aceitandoCombinacaoDeValores\aceitandoCombinacaoDeValores\obj\Debug\net5.0\aceitandoCombinacaoDeValores.csproj.CoreCompileInputs.cache
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\aceitandoCombinacaoDeValores\aceitandoCombinacaoDeValores\obj\Debug\net5.0\aceitandoCombinacaoDeValores.dll
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\aceitandoCombinacaoDeValores\aceitandoCombinacaoDeValores\obj\Debug\net5.0\ref\aceitandoCombinacaoDeValores.dll
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\aceitandoCombinacaoDeValores\aceitandoCombinacaoDeValores\obj\Debug\net5.0\aceitandoCombinacaoDeValores.pdb
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\aceitandoCombinacaoDeValores\aceitandoCombinacaoDeValores\obj\Debug\net5.0\aceitandoCombinacaoDeValores.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\digiteSuaSenha\digiteSuaSenha\bin\Debug\net5.0\digiteSuaSenha.exe
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\digiteSuaSenha\digiteSuaSenha\bin\Debug\net5.0\digiteSuaSenha.deps.json
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\digiteSuaSenha\digiteSuaSenha\bin\Debug\net5.0\digiteSuaSenha.runtimeconfig.json
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\digiteSuaSenha\digiteSuaSenha\bin\Debug\net5.0\digiteSuaSenha.runtimeconfig.dev.json
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\digiteSuaSenha\digiteSuaSenha\bin\Debug\net5.0\digiteSuaSenha.dll
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\digiteSuaSenha\digiteSuaSenha\bin\Debug\net5.0\ref\digiteSuaSenha.dll
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\digiteSuaSenha\digiteSuaSenha\bin\Debug\net5.0\digiteSuaSenha.pdb
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\digiteSuaSenha\digiteSuaSenha\obj\Debug\net5.0\digiteSuaSenha.csproj.AssemblyReference.cache
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\digiteSuaSenha\digiteSuaSenha\obj\Debug\net5.0\digiteSuaSenha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\digiteSuaSenha\digiteSuaSenha\obj\Debug\net5.0\digiteSuaSenha.AssemblyInfoInputs.cache
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\digiteSuaSenha\digiteSuaSenha\obj\Debug\net5.0\digiteSuaSenha.AssemblyInfo.cs
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\digiteSuaSenha\digiteSuaSenha\obj\Debug\net5.0\digiteSuaSenha.csproj.CoreCompileInputs.cache
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\digiteSuaSenha\digiteSuaSenha\obj\Debug\net5.0\digiteSuaSenha.dll
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\digiteSuaSenha\digiteSuaSenha\obj\Debug\net5.0\ref\digiteSuaSenha.dll
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\digiteSuaSenha\digiteSuaSenha\obj\Debug\net5.0\digiteSuaSenha.pdb
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\digiteSuaSenha\digiteSuaSenha\obj\Debug\net5.0\digiteSuaSenha.genruntimeconfig.cache

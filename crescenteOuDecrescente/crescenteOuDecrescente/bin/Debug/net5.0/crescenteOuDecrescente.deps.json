@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "crescenteOuDecrescente/1.0.0": {
+        "runtime": {
+          "crescenteOuDecrescente.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "crescenteOuDecrescente/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

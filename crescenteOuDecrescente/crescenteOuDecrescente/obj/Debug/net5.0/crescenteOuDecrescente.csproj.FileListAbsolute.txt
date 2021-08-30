@@ -1,0 +1,16 @@
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\crescenteOuDecrescente\crescenteOuDecrescente\bin\Debug\net5.0\crescenteOuDecrescente.exe
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\crescenteOuDecrescente\crescenteOuDecrescente\bin\Debug\net5.0\crescenteOuDecrescente.deps.json
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\crescenteOuDecrescente\crescenteOuDecrescente\bin\Debug\net5.0\crescenteOuDecrescente.runtimeconfig.json
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\crescenteOuDecrescente\crescenteOuDecrescente\bin\Debug\net5.0\crescenteOuDecrescente.runtimeconfig.dev.json
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\crescenteOuDecrescente\crescenteOuDecrescente\bin\Debug\net5.0\crescenteOuDecrescente.dll
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\crescenteOuDecrescente\crescenteOuDecrescente\bin\Debug\net5.0\ref\crescenteOuDecrescente.dll
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\crescenteOuDecrescente\crescenteOuDecrescente\bin\Debug\net5.0\crescenteOuDecrescente.pdb
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\crescenteOuDecrescente\crescenteOuDecrescente\obj\Debug\net5.0\crescenteOuDecrescente.csproj.AssemblyReference.cache
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\crescenteOuDecrescente\crescenteOuDecrescente\obj\Debug\net5.0\crescenteOuDecrescente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\crescenteOuDecrescente\crescenteOuDecrescente\obj\Debug\net5.0\crescenteOuDecrescente.AssemblyInfoInputs.cache
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\crescenteOuDecrescente\crescenteOuDecrescente\obj\Debug\net5.0\crescenteOuDecrescente.AssemblyInfo.cs
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\crescenteOuDecrescente\crescenteOuDecrescente\obj\Debug\net5.0\crescenteOuDecrescente.csproj.CoreCompileInputs.cache
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\crescenteOuDecrescente\crescenteOuDecrescente\obj\Debug\net5.0\crescenteOuDecrescente.dll
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\crescenteOuDecrescente\crescenteOuDecrescente\obj\Debug\net5.0\ref\crescenteOuDecrescente.dll
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\crescenteOuDecrescente\crescenteOuDecrescente\obj\Debug\net5.0\crescenteOuDecrescente.pdb
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\crescenteOuDecrescente\crescenteOuDecrescente\obj\Debug\net5.0\crescenteOuDecrescente.genruntimeconfig.cache

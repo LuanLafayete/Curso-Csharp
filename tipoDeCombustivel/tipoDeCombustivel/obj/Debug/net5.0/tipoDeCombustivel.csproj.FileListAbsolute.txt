@@ -1,0 +1,16 @@
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\tipoDeCombustivel\tipoDeCombustivel\bin\Debug\net5.0\tipoDeCombustivel.exe
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\tipoDeCombustivel\tipoDeCombustivel\bin\Debug\net5.0\tipoDeCombustivel.deps.json
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\tipoDeCombustivel\tipoDeCombustivel\bin\Debug\net5.0\tipoDeCombustivel.runtimeconfig.json
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\tipoDeCombustivel\tipoDeCombustivel\bin\Debug\net5.0\tipoDeCombustivel.runtimeconfig.dev.json
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\tipoDeCombustivel\tipoDeCombustivel\bin\Debug\net5.0\tipoDeCombustivel.dll
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\tipoDeCombustivel\tipoDeCombustivel\bin\Debug\net5.0\ref\tipoDeCombustivel.dll
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\tipoDeCombustivel\tipoDeCombustivel\bin\Debug\net5.0\tipoDeCombustivel.pdb
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\tipoDeCombustivel\tipoDeCombustivel\obj\Debug\net5.0\tipoDeCombustivel.csproj.AssemblyReference.cache
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\tipoDeCombustivel\tipoDeCombustivel\obj\Debug\net5.0\tipoDeCombustivel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\tipoDeCombustivel\tipoDeCombustivel\obj\Debug\net5.0\tipoDeCombustivel.AssemblyInfoInputs.cache
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\tipoDeCombustivel\tipoDeCombustivel\obj\Debug\net5.0\tipoDeCombustivel.AssemblyInfo.cs
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\tipoDeCombustivel\tipoDeCombustivel\obj\Debug\net5.0\tipoDeCombustivel.csproj.CoreCompileInputs.cache
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\tipoDeCombustivel\tipoDeCombustivel\obj\Debug\net5.0\tipoDeCombustivel.dll
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\tipoDeCombustivel\tipoDeCombustivel\obj\Debug\net5.0\ref\tipoDeCombustivel.dll
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\tipoDeCombustivel\tipoDeCombustivel\obj\Debug\net5.0\tipoDeCombustivel.pdb
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\tipoDeCombustivel\tipoDeCombustivel\obj\Debug\net5.0\tipoDeCombustivel.genruntimeconfig.cache

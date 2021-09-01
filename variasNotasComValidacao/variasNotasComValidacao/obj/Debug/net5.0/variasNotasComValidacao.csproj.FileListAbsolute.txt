@@ -1,0 +1,16 @@
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\variasNotasComValidacao\variasNotasComValidacao\bin\Debug\net5.0\variasNotasComValidacao.exe
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\variasNotasComValidacao\variasNotasComValidacao\bin\Debug\net5.0\variasNotasComValidacao.deps.json
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\variasNotasComValidacao\variasNotasComValidacao\bin\Debug\net5.0\variasNotasComValidacao.runtimeconfig.json
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\variasNotasComValidacao\variasNotasComValidacao\bin\Debug\net5.0\variasNotasComValidacao.runtimeconfig.dev.json
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\variasNotasComValidacao\variasNotasComValidacao\bin\Debug\net5.0\variasNotasComValidacao.dll
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\variasNotasComValidacao\variasNotasComValidacao\bin\Debug\net5.0\ref\variasNotasComValidacao.dll
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\variasNotasComValidacao\variasNotasComValidacao\bin\Debug\net5.0\variasNotasComValidacao.pdb
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\variasNotasComValidacao\variasNotasComValidacao\obj\Debug\net5.0\variasNotasComValidacao.csproj.AssemblyReference.cache
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\variasNotasComValidacao\variasNotasComValidacao\obj\Debug\net5.0\variasNotasComValidacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\variasNotasComValidacao\variasNotasComValidacao\obj\Debug\net5.0\variasNotasComValidacao.AssemblyInfoInputs.cache
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\variasNotasComValidacao\variasNotasComValidacao\obj\Debug\net5.0\variasNotasComValidacao.AssemblyInfo.cs
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\variasNotasComValidacao\variasNotasComValidacao\obj\Debug\net5.0\variasNotasComValidacao.csproj.CoreCompileInputs.cache
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\variasNotasComValidacao\variasNotasComValidacao\obj\Debug\net5.0\variasNotasComValidacao.dll
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\variasNotasComValidacao\variasNotasComValidacao\obj\Debug\net5.0\ref\variasNotasComValidacao.dll
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\variasNotasComValidacao\variasNotasComValidacao\obj\Debug\net5.0\variasNotasComValidacao.pdb
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\variasNotasComValidacao\variasNotasComValidacao\obj\Debug\net5.0\variasNotasComValidacao.genruntimeconfig.cache

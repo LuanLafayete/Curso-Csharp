@@ -1,0 +1,16 @@
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\ConversorDeTemperatura\ConversorDeTemperatura\bin\Debug\net5.0\ConversorDeTemperatura.exe
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\ConversorDeTemperatura\ConversorDeTemperatura\bin\Debug\net5.0\ConversorDeTemperatura.deps.json
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\ConversorDeTemperatura\ConversorDeTemperatura\bin\Debug\net5.0\ConversorDeTemperatura.runtimeconfig.json
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\ConversorDeTemperatura\ConversorDeTemperatura\bin\Debug\net5.0\ConversorDeTemperatura.runtimeconfig.dev.json
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\ConversorDeTemperatura\ConversorDeTemperatura\bin\Debug\net5.0\ConversorDeTemperatura.dll
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\ConversorDeTemperatura\ConversorDeTemperatura\bin\Debug\net5.0\ref\ConversorDeTemperatura.dll
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\ConversorDeTemperatura\ConversorDeTemperatura\bin\Debug\net5.0\ConversorDeTemperatura.pdb
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\ConversorDeTemperatura\ConversorDeTemperatura\obj\Debug\net5.0\ConversorDeTemperatura.csproj.AssemblyReference.cache
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\ConversorDeTemperatura\ConversorDeTemperatura\obj\Debug\net5.0\ConversorDeTemperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\ConversorDeTemperatura\ConversorDeTemperatura\obj\Debug\net5.0\ConversorDeTemperatura.AssemblyInfoInputs.cache
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\ConversorDeTemperatura\ConversorDeTemperatura\obj\Debug\net5.0\ConversorDeTemperatura.AssemblyInfo.cs
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\ConversorDeTemperatura\ConversorDeTemperatura\obj\Debug\net5.0\ConversorDeTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\ConversorDeTemperatura\ConversorDeTemperatura\obj\Debug\net5.0\ConversorDeTemperatura.dll
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\ConversorDeTemperatura\ConversorDeTemperatura\obj\Debug\net5.0\ref\ConversorDeTemperatura.dll
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\ConversorDeTemperatura\ConversorDeTemperatura\obj\Debug\net5.0\ConversorDeTemperatura.pdb
+C:\Users\luanr\Desktop\04-C# - Udemy\ws-vs2019\ConversorDeTemperatura\ConversorDeTemperatura\obj\Debug\net5.0\ConversorDeTemperatura.genruntimeconfig.cache

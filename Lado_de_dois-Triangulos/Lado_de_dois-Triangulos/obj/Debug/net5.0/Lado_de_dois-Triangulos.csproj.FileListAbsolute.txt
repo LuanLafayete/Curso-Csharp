@@ -1,0 +1,16 @@
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Lado_de_dois-Triangulos\Lado_de_dois-Triangulos\bin\Debug\net5.0\Lado_de_dois-Triangulos.exe
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Lado_de_dois-Triangulos\Lado_de_dois-Triangulos\bin\Debug\net5.0\Lado_de_dois-Triangulos.deps.json
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Lado_de_dois-Triangulos\Lado_de_dois-Triangulos\bin\Debug\net5.0\Lado_de_dois-Triangulos.runtimeconfig.json
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Lado_de_dois-Triangulos\Lado_de_dois-Triangulos\bin\Debug\net5.0\Lado_de_dois-Triangulos.runtimeconfig.dev.json
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Lado_de_dois-Triangulos\Lado_de_dois-Triangulos\bin\Debug\net5.0\Lado_de_dois-Triangulos.dll
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Lado_de_dois-Triangulos\Lado_de_dois-Triangulos\bin\Debug\net5.0\ref\Lado_de_dois-Triangulos.dll
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Lado_de_dois-Triangulos\Lado_de_dois-Triangulos\bin\Debug\net5.0\Lado_de_dois-Triangulos.pdb
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Lado_de_dois-Triangulos\Lado_de_dois-Triangulos\obj\Debug\net5.0\Lado_de_dois-Triangulos.csproj.AssemblyReference.cache
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Lado_de_dois-Triangulos\Lado_de_dois-Triangulos\obj\Debug\net5.0\Lado_de_dois-Triangulos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Lado_de_dois-Triangulos\Lado_de_dois-Triangulos\obj\Debug\net5.0\Lado_de_dois-Triangulos.AssemblyInfoInputs.cache
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Lado_de_dois-Triangulos\Lado_de_dois-Triangulos\obj\Debug\net5.0\Lado_de_dois-Triangulos.AssemblyInfo.cs
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Lado_de_dois-Triangulos\Lado_de_dois-Triangulos\obj\Debug\net5.0\Lado_de_dois-Triangulos.csproj.CoreCompileInputs.cache
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Lado_de_dois-Triangulos\Lado_de_dois-Triangulos\obj\Debug\net5.0\Lado_de_dois-Triangulos.dll
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Lado_de_dois-Triangulos\Lado_de_dois-Triangulos\obj\Debug\net5.0\ref\Lado_de_dois-Triangulos.dll
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Lado_de_dois-Triangulos\Lado_de_dois-Triangulos\obj\Debug\net5.0\Lado_de_dois-Triangulos.pdb
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Lado_de_dois-Triangulos\Lado_de_dois-Triangulos\obj\Debug\net5.0\Lado_de_dois-Triangulos.genruntimeconfig.cache

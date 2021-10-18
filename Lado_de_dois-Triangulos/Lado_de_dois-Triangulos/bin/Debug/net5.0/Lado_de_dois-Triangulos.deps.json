@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Lado_de_dois-Triangulos/1.0.0": {
+        "runtime": {
+          "Lado_de_dois-Triangulos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lado_de_dois-Triangulos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

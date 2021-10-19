@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lado_de_dois-Triangulos", "Lado_de_dois-Triangulos\Lado_de_dois-Triangulos.csproj", "{987A288F-0764-4294-9508-1A6FE50DDE60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{987A288F-0764-4294-9508-1A6FE50DDE60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{987A288F-0764-4294-9508-1A6FE50DDE60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{987A288F-0764-4294-9508-1A6FE50DDE60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{987A288F-0764-4294-9508-1A6FE50DDE60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFFFE842-560F-47B3-B504-A48212DF8031}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Cadastro_De_Funcionario\Cadastro_De_Funcionario\bin\Debug\net5.0\Cadastro_De_Funcionario.exe
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Cadastro_De_Funcionario\Cadastro_De_Funcionario\bin\Debug\net5.0\Cadastro_De_Funcionario.deps.json
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Cadastro_De_Funcionario\Cadastro_De_Funcionario\bin\Debug\net5.0\Cadastro_De_Funcionario.runtimeconfig.json
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Cadastro_De_Funcionario\Cadastro_De_Funcionario\bin\Debug\net5.0\Cadastro_De_Funcionario.runtimeconfig.dev.json
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Cadastro_De_Funcionario\Cadastro_De_Funcionario\bin\Debug\net5.0\Cadastro_De_Funcionario.dll
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Cadastro_De_Funcionario\Cadastro_De_Funcionario\bin\Debug\net5.0\ref\Cadastro_De_Funcionario.dll
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Cadastro_De_Funcionario\Cadastro_De_Funcionario\bin\Debug\net5.0\Cadastro_De_Funcionario.pdb
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Cadastro_De_Funcionario\Cadastro_De_Funcionario\obj\Debug\net5.0\Cadastro_De_Funcionario.csproj.AssemblyReference.cache
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Cadastro_De_Funcionario\Cadastro_De_Funcionario\obj\Debug\net5.0\Cadastro_De_Funcionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Cadastro_De_Funcionario\Cadastro_De_Funcionario\obj\Debug\net5.0\Cadastro_De_Funcionario.AssemblyInfoInputs.cache
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Cadastro_De_Funcionario\Cadastro_De_Funcionario\obj\Debug\net5.0\Cadastro_De_Funcionario.AssemblyInfo.cs
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Cadastro_De_Funcionario\Cadastro_De_Funcionario\obj\Debug\net5.0\Cadastro_De_Funcionario.csproj.CoreCompileInputs.cache
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Cadastro_De_Funcionario\Cadastro_De_Funcionario\obj\Debug\net5.0\Cadastro_De_Funcionario.dll
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Cadastro_De_Funcionario\Cadastro_De_Funcionario\obj\Debug\net5.0\ref\Cadastro_De_Funcionario.dll
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Cadastro_De_Funcionario\Cadastro_De_Funcionario\obj\Debug\net5.0\Cadastro_De_Funcionario.pdb
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Cadastro_De_Funcionario\Cadastro_De_Funcionario\obj\Debug\net5.0\Cadastro_De_Funcionario.genruntimeconfig.cache

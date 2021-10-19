@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Cadastro_De_Funcionario/1.0.0": {
+        "runtime": {
+          "Cadastro_De_Funcionario.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cadastro_De_Funcionario/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

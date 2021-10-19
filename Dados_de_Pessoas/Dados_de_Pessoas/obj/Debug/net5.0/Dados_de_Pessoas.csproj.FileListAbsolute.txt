@@ -1,0 +1,16 @@
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Dados_de_Pessoas\Dados_de_Pessoas\bin\Debug\net5.0\Dados_de_Pessoas.exe
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Dados_de_Pessoas\Dados_de_Pessoas\bin\Debug\net5.0\Dados_de_Pessoas.deps.json
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Dados_de_Pessoas\Dados_de_Pessoas\bin\Debug\net5.0\Dados_de_Pessoas.runtimeconfig.json
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Dados_de_Pessoas\Dados_de_Pessoas\bin\Debug\net5.0\Dados_de_Pessoas.runtimeconfig.dev.json
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Dados_de_Pessoas\Dados_de_Pessoas\bin\Debug\net5.0\Dados_de_Pessoas.dll
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Dados_de_Pessoas\Dados_de_Pessoas\bin\Debug\net5.0\ref\Dados_de_Pessoas.dll
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Dados_de_Pessoas\Dados_de_Pessoas\bin\Debug\net5.0\Dados_de_Pessoas.pdb
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Dados_de_Pessoas\Dados_de_Pessoas\obj\Debug\net5.0\Dados_de_Pessoas.csproj.AssemblyReference.cache
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Dados_de_Pessoas\Dados_de_Pessoas\obj\Debug\net5.0\Dados_de_Pessoas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Dados_de_Pessoas\Dados_de_Pessoas\obj\Debug\net5.0\Dados_de_Pessoas.AssemblyInfoInputs.cache
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Dados_de_Pessoas\Dados_de_Pessoas\obj\Debug\net5.0\Dados_de_Pessoas.AssemblyInfo.cs
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Dados_de_Pessoas\Dados_de_Pessoas\obj\Debug\net5.0\Dados_de_Pessoas.csproj.CoreCompileInputs.cache
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Dados_de_Pessoas\Dados_de_Pessoas\obj\Debug\net5.0\Dados_de_Pessoas.dll
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Dados_de_Pessoas\Dados_de_Pessoas\obj\Debug\net5.0\ref\Dados_de_Pessoas.dll
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Dados_de_Pessoas\Dados_de_Pessoas\obj\Debug\net5.0\Dados_de_Pessoas.pdb
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Dados_de_Pessoas\Dados_de_Pessoas\obj\Debug\net5.0\Dados_de_Pessoas.genruntimeconfig.cache

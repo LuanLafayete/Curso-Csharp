@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Dados_de_Pessoas/1.0.0": {
+        "runtime": {
+          "Dados_de_Pessoas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dados_de_Pessoas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

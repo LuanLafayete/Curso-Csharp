@@ -1,0 +1,16 @@
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Produtos_Em_Estoque\Produtos_Em_Estoque\obj\Debug\net5.0\Produtos_Em_Estoque.csproj.AssemblyReference.cache
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Produtos_Em_Estoque\Produtos_Em_Estoque\obj\Debug\net5.0\Produtos_Em_Estoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Produtos_Em_Estoque\Produtos_Em_Estoque\obj\Debug\net5.0\Produtos_Em_Estoque.AssemblyInfoInputs.cache
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Produtos_Em_Estoque\Produtos_Em_Estoque\obj\Debug\net5.0\Produtos_Em_Estoque.AssemblyInfo.cs
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Produtos_Em_Estoque\Produtos_Em_Estoque\obj\Debug\net5.0\Produtos_Em_Estoque.csproj.CoreCompileInputs.cache
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Produtos_Em_Estoque\Produtos_Em_Estoque\bin\Debug\net5.0\Produtos_Em_Estoque.exe
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Produtos_Em_Estoque\Produtos_Em_Estoque\bin\Debug\net5.0\Produtos_Em_Estoque.deps.json
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Produtos_Em_Estoque\Produtos_Em_Estoque\bin\Debug\net5.0\Produtos_Em_Estoque.runtimeconfig.json
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Produtos_Em_Estoque\Produtos_Em_Estoque\bin\Debug\net5.0\Produtos_Em_Estoque.runtimeconfig.dev.json
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Produtos_Em_Estoque\Produtos_Em_Estoque\bin\Debug\net5.0\Produtos_Em_Estoque.dll
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Produtos_Em_Estoque\Produtos_Em_Estoque\bin\Debug\net5.0\ref\Produtos_Em_Estoque.dll
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Produtos_Em_Estoque\Produtos_Em_Estoque\bin\Debug\net5.0\Produtos_Em_Estoque.pdb
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Produtos_Em_Estoque\Produtos_Em_Estoque\obj\Debug\net5.0\Produtos_Em_Estoque.dll
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Produtos_Em_Estoque\Produtos_Em_Estoque\obj\Debug\net5.0\ref\Produtos_Em_Estoque.dll
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Produtos_Em_Estoque\Produtos_Em_Estoque\obj\Debug\net5.0\Produtos_Em_Estoque.pdb
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Produtos_Em_Estoque\Produtos_Em_Estoque\obj\Debug\net5.0\Produtos_Em_Estoque.genruntimeconfig.cache

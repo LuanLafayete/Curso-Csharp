@@ -1,0 +1,16 @@
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Area_perimetro_diagonal02\Area_perimetro_diagonal02\bin\Debug\net5.0\Area_perimetro_diagonal02.exe
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Area_perimetro_diagonal02\Area_perimetro_diagonal02\bin\Debug\net5.0\Area_perimetro_diagonal02.deps.json
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Area_perimetro_diagonal02\Area_perimetro_diagonal02\bin\Debug\net5.0\Area_perimetro_diagonal02.runtimeconfig.json
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Area_perimetro_diagonal02\Area_perimetro_diagonal02\bin\Debug\net5.0\Area_perimetro_diagonal02.runtimeconfig.dev.json
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Area_perimetro_diagonal02\Area_perimetro_diagonal02\bin\Debug\net5.0\Area_perimetro_diagonal02.dll
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Area_perimetro_diagonal02\Area_perimetro_diagonal02\bin\Debug\net5.0\ref\Area_perimetro_diagonal02.dll
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Area_perimetro_diagonal02\Area_perimetro_diagonal02\bin\Debug\net5.0\Area_perimetro_diagonal02.pdb
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Area_perimetro_diagonal02\Area_perimetro_diagonal02\obj\Debug\net5.0\Area_perimetro_diagonal02.csproj.AssemblyReference.cache
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Area_perimetro_diagonal02\Area_perimetro_diagonal02\obj\Debug\net5.0\Area_perimetro_diagonal02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Area_perimetro_diagonal02\Area_perimetro_diagonal02\obj\Debug\net5.0\Area_perimetro_diagonal02.AssemblyInfoInputs.cache
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Area_perimetro_diagonal02\Area_perimetro_diagonal02\obj\Debug\net5.0\Area_perimetro_diagonal02.AssemblyInfo.cs
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Area_perimetro_diagonal02\Area_perimetro_diagonal02\obj\Debug\net5.0\Area_perimetro_diagonal02.csproj.CoreCompileInputs.cache
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Area_perimetro_diagonal02\Area_perimetro_diagonal02\obj\Debug\net5.0\Area_perimetro_diagonal02.dll
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Area_perimetro_diagonal02\Area_perimetro_diagonal02\obj\Debug\net5.0\ref\Area_perimetro_diagonal02.dll
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Area_perimetro_diagonal02\Area_perimetro_diagonal02\obj\Debug\net5.0\Area_perimetro_diagonal02.pdb
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Area_perimetro_diagonal02\Area_perimetro_diagonal02\obj\Debug\net5.0\Area_perimetro_diagonal02.genruntimeconfig.cache

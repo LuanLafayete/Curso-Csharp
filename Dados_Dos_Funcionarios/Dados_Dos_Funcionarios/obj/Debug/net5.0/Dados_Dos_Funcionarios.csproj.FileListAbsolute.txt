@@ -1,0 +1,16 @@
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Dados_Dos_Funcionarios\Dados_Dos_Funcionarios\bin\Debug\net5.0\Dados_Dos_Funcionarios.exe
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Dados_Dos_Funcionarios\Dados_Dos_Funcionarios\bin\Debug\net5.0\Dados_Dos_Funcionarios.deps.json
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Dados_Dos_Funcionarios\Dados_Dos_Funcionarios\bin\Debug\net5.0\Dados_Dos_Funcionarios.runtimeconfig.json
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Dados_Dos_Funcionarios\Dados_Dos_Funcionarios\bin\Debug\net5.0\Dados_Dos_Funcionarios.runtimeconfig.dev.json
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Dados_Dos_Funcionarios\Dados_Dos_Funcionarios\bin\Debug\net5.0\Dados_Dos_Funcionarios.dll
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Dados_Dos_Funcionarios\Dados_Dos_Funcionarios\bin\Debug\net5.0\ref\Dados_Dos_Funcionarios.dll
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Dados_Dos_Funcionarios\Dados_Dos_Funcionarios\bin\Debug\net5.0\Dados_Dos_Funcionarios.pdb
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Dados_Dos_Funcionarios\Dados_Dos_Funcionarios\obj\Debug\net5.0\Dados_Dos_Funcionarios.csproj.AssemblyReference.cache
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Dados_Dos_Funcionarios\Dados_Dos_Funcionarios\obj\Debug\net5.0\Dados_Dos_Funcionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Dados_Dos_Funcionarios\Dados_Dos_Funcionarios\obj\Debug\net5.0\Dados_Dos_Funcionarios.AssemblyInfoInputs.cache
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Dados_Dos_Funcionarios\Dados_Dos_Funcionarios\obj\Debug\net5.0\Dados_Dos_Funcionarios.AssemblyInfo.cs
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Dados_Dos_Funcionarios\Dados_Dos_Funcionarios\obj\Debug\net5.0\Dados_Dos_Funcionarios.csproj.CoreCompileInputs.cache
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Dados_Dos_Funcionarios\Dados_Dos_Funcionarios\obj\Debug\net5.0\Dados_Dos_Funcionarios.dll
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Dados_Dos_Funcionarios\Dados_Dos_Funcionarios\obj\Debug\net5.0\ref\Dados_Dos_Funcionarios.dll
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Dados_Dos_Funcionarios\Dados_Dos_Funcionarios\obj\Debug\net5.0\Dados_Dos_Funcionarios.pdb
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Dados_Dos_Funcionarios\Dados_Dos_Funcionarios\obj\Debug\net5.0\Dados_Dos_Funcionarios.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Nota_Dos_Aunos\Nota_Dos_Aunos\bin\Debug\net5.0\Nota_Dos_Aunos.exe
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Nota_Dos_Aunos\Nota_Dos_Aunos\bin\Debug\net5.0\Nota_Dos_Aunos.deps.json
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Nota_Dos_Aunos\Nota_Dos_Aunos\bin\Debug\net5.0\Nota_Dos_Aunos.runtimeconfig.json
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Nota_Dos_Aunos\Nota_Dos_Aunos\bin\Debug\net5.0\Nota_Dos_Aunos.runtimeconfig.dev.json
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Nota_Dos_Aunos\Nota_Dos_Aunos\bin\Debug\net5.0\Nota_Dos_Aunos.dll
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Nota_Dos_Aunos\Nota_Dos_Aunos\bin\Debug\net5.0\ref\Nota_Dos_Aunos.dll
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Nota_Dos_Aunos\Nota_Dos_Aunos\bin\Debug\net5.0\Nota_Dos_Aunos.pdb
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Nota_Dos_Aunos\Nota_Dos_Aunos\obj\Debug\net5.0\Nota_Dos_Aunos.csproj.AssemblyReference.cache
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Nota_Dos_Aunos\Nota_Dos_Aunos\obj\Debug\net5.0\Nota_Dos_Aunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Nota_Dos_Aunos\Nota_Dos_Aunos\obj\Debug\net5.0\Nota_Dos_Aunos.AssemblyInfoInputs.cache
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Nota_Dos_Aunos\Nota_Dos_Aunos\obj\Debug\net5.0\Nota_Dos_Aunos.AssemblyInfo.cs
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Nota_Dos_Aunos\Nota_Dos_Aunos\obj\Debug\net5.0\Nota_Dos_Aunos.csproj.CoreCompileInputs.cache
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Nota_Dos_Aunos\Nota_Dos_Aunos\obj\Debug\net5.0\Nota_Dos_Aunos.dll
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Nota_Dos_Aunos\Nota_Dos_Aunos\obj\Debug\net5.0\ref\Nota_Dos_Aunos.dll
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Nota_Dos_Aunos\Nota_Dos_Aunos\obj\Debug\net5.0\Nota_Dos_Aunos.pdb
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\Nota_Dos_Aunos\Nota_Dos_Aunos\obj\Debug\net5.0\Nota_Dos_Aunos.genruntimeconfig.cache

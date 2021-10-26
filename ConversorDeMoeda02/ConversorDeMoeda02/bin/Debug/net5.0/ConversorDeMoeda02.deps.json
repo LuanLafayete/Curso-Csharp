@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ConversorDeMoeda02/1.0.0": {
+        "runtime": {
+          "ConversorDeMoeda02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConversorDeMoeda02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

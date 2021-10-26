@@ -1,0 +1,16 @@
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\ConversorDeMoeda03\ConversorDeMoeda03\bin\Debug\net5.0\ConversorDeMoeda03.exe
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\ConversorDeMoeda03\ConversorDeMoeda03\bin\Debug\net5.0\ConversorDeMoeda03.deps.json
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\ConversorDeMoeda03\ConversorDeMoeda03\bin\Debug\net5.0\ConversorDeMoeda03.runtimeconfig.json
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\ConversorDeMoeda03\ConversorDeMoeda03\bin\Debug\net5.0\ConversorDeMoeda03.runtimeconfig.dev.json
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\ConversorDeMoeda03\ConversorDeMoeda03\bin\Debug\net5.0\ConversorDeMoeda03.dll
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\ConversorDeMoeda03\ConversorDeMoeda03\bin\Debug\net5.0\ref\ConversorDeMoeda03.dll
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\ConversorDeMoeda03\ConversorDeMoeda03\bin\Debug\net5.0\ConversorDeMoeda03.pdb
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\ConversorDeMoeda03\ConversorDeMoeda03\obj\Debug\net5.0\ConversorDeMoeda03.csproj.AssemblyReference.cache
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\ConversorDeMoeda03\ConversorDeMoeda03\obj\Debug\net5.0\ConversorDeMoeda03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\ConversorDeMoeda03\ConversorDeMoeda03\obj\Debug\net5.0\ConversorDeMoeda03.AssemblyInfoInputs.cache
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\ConversorDeMoeda03\ConversorDeMoeda03\obj\Debug\net5.0\ConversorDeMoeda03.AssemblyInfo.cs
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\ConversorDeMoeda03\ConversorDeMoeda03\obj\Debug\net5.0\ConversorDeMoeda03.csproj.CoreCompileInputs.cache
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\ConversorDeMoeda03\ConversorDeMoeda03\obj\Debug\net5.0\ConversorDeMoeda03.dll
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\ConversorDeMoeda03\ConversorDeMoeda03\obj\Debug\net5.0\ref\ConversorDeMoeda03.dll
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\ConversorDeMoeda03\ConversorDeMoeda03\obj\Debug\net5.0\ConversorDeMoeda03.pdb
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\ConversorDeMoeda03\ConversorDeMoeda03\obj\Debug\net5.0\ConversorDeMoeda03.genruntimeconfig.cache

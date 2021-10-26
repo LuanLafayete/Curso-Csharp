@@ -1,0 +1,16 @@
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\ConversorDeMoedas\ConversorDeMoedas\bin\Debug\net5.0\ConversorDeMoedas.exe
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\ConversorDeMoedas\ConversorDeMoedas\bin\Debug\net5.0\ConversorDeMoedas.deps.json
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\ConversorDeMoedas\ConversorDeMoedas\bin\Debug\net5.0\ConversorDeMoedas.runtimeconfig.json
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\ConversorDeMoedas\ConversorDeMoedas\bin\Debug\net5.0\ConversorDeMoedas.runtimeconfig.dev.json
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\ConversorDeMoedas\ConversorDeMoedas\bin\Debug\net5.0\ConversorDeMoedas.dll
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\ConversorDeMoedas\ConversorDeMoedas\bin\Debug\net5.0\ref\ConversorDeMoedas.dll
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\ConversorDeMoedas\ConversorDeMoedas\bin\Debug\net5.0\ConversorDeMoedas.pdb
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net5.0\ConversorDeMoedas.csproj.AssemblyReference.cache
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net5.0\ConversorDeMoedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net5.0\ConversorDeMoedas.AssemblyInfoInputs.cache
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net5.0\ConversorDeMoedas.AssemblyInfo.cs
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net5.0\ConversorDeMoedas.csproj.CoreCompileInputs.cache
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net5.0\ConversorDeMoedas.dll
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net5.0\ref\ConversorDeMoedas.dll
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net5.0\ConversorDeMoedas.pdb
+C:\Users\luanr\Desktop\Curso C#\ws-vs2019\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net5.0\ConversorDeMoedas.genruntimeconfig.cache

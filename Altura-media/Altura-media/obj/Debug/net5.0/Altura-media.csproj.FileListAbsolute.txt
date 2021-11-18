@@ -1,0 +1,16 @@
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\Altura-media\Altura-media\bin\Debug\net5.0\Altura-media.exe
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\Altura-media\Altura-media\bin\Debug\net5.0\Altura-media.deps.json
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\Altura-media\Altura-media\bin\Debug\net5.0\Altura-media.runtimeconfig.json
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\Altura-media\Altura-media\bin\Debug\net5.0\Altura-media.runtimeconfig.dev.json
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\Altura-media\Altura-media\bin\Debug\net5.0\Altura-media.dll
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\Altura-media\Altura-media\bin\Debug\net5.0\ref\Altura-media.dll
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\Altura-media\Altura-media\bin\Debug\net5.0\Altura-media.pdb
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\Altura-media\Altura-media\obj\Debug\net5.0\Altura-media.csproj.AssemblyReference.cache
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\Altura-media\Altura-media\obj\Debug\net5.0\Altura-media.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\Altura-media\Altura-media\obj\Debug\net5.0\Altura-media.AssemblyInfoInputs.cache
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\Altura-media\Altura-media\obj\Debug\net5.0\Altura-media.AssemblyInfo.cs
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\Altura-media\Altura-media\obj\Debug\net5.0\Altura-media.csproj.CoreCompileInputs.cache
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\Altura-media\Altura-media\obj\Debug\net5.0\Altura-media.dll
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\Altura-media\Altura-media\obj\Debug\net5.0\ref\Altura-media.dll
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\Altura-media\Altura-media\obj\Debug\net5.0\Altura-media.pdb
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\Altura-media\Altura-media\obj\Debug\net5.0\Altura-media.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\MatrizComSplit\MatrizComSplit\bin\Debug\net5.0\MatrizComSplit.exe
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\MatrizComSplit\MatrizComSplit\bin\Debug\net5.0\MatrizComSplit.deps.json
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\MatrizComSplit\MatrizComSplit\bin\Debug\net5.0\MatrizComSplit.runtimeconfig.json
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\MatrizComSplit\MatrizComSplit\bin\Debug\net5.0\MatrizComSplit.runtimeconfig.dev.json
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\MatrizComSplit\MatrizComSplit\bin\Debug\net5.0\MatrizComSplit.dll
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\MatrizComSplit\MatrizComSplit\bin\Debug\net5.0\ref\MatrizComSplit.dll
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\MatrizComSplit\MatrizComSplit\bin\Debug\net5.0\MatrizComSplit.pdb
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\MatrizComSplit\MatrizComSplit\obj\Debug\net5.0\MatrizComSplit.csproj.AssemblyReference.cache
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\MatrizComSplit\MatrizComSplit\obj\Debug\net5.0\MatrizComSplit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\MatrizComSplit\MatrizComSplit\obj\Debug\net5.0\MatrizComSplit.AssemblyInfoInputs.cache
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\MatrizComSplit\MatrizComSplit\obj\Debug\net5.0\MatrizComSplit.AssemblyInfo.cs
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\MatrizComSplit\MatrizComSplit\obj\Debug\net5.0\MatrizComSplit.csproj.CoreCompileInputs.cache
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\MatrizComSplit\MatrizComSplit\obj\Debug\net5.0\MatrizComSplit.dll
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\MatrizComSplit\MatrizComSplit\obj\Debug\net5.0\ref\MatrizComSplit.dll
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\MatrizComSplit\MatrizComSplit\obj\Debug\net5.0\MatrizComSplit.pdb
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\MatrizComSplit\MatrizComSplit\obj\Debug\net5.0\MatrizComSplit.genruntimeconfig.cache

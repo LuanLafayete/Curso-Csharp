@@ -1,0 +1,16 @@
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\ListaDeFuncionario\ListaDeFuncionario\bin\Debug\net5.0\ListaDeFuncionario.exe
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\ListaDeFuncionario\ListaDeFuncionario\bin\Debug\net5.0\ListaDeFuncionario.deps.json
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\ListaDeFuncionario\ListaDeFuncionario\bin\Debug\net5.0\ListaDeFuncionario.runtimeconfig.json
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\ListaDeFuncionario\ListaDeFuncionario\bin\Debug\net5.0\ListaDeFuncionario.runtimeconfig.dev.json
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\ListaDeFuncionario\ListaDeFuncionario\bin\Debug\net5.0\ListaDeFuncionario.dll
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\ListaDeFuncionario\ListaDeFuncionario\bin\Debug\net5.0\ref\ListaDeFuncionario.dll
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\ListaDeFuncionario\ListaDeFuncionario\bin\Debug\net5.0\ListaDeFuncionario.pdb
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\ListaDeFuncionario\ListaDeFuncionario\obj\Debug\net5.0\ListaDeFuncionario.csproj.AssemblyReference.cache
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\ListaDeFuncionario\ListaDeFuncionario\obj\Debug\net5.0\ListaDeFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\ListaDeFuncionario\ListaDeFuncionario\obj\Debug\net5.0\ListaDeFuncionario.AssemblyInfoInputs.cache
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\ListaDeFuncionario\ListaDeFuncionario\obj\Debug\net5.0\ListaDeFuncionario.AssemblyInfo.cs
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\ListaDeFuncionario\ListaDeFuncionario\obj\Debug\net5.0\ListaDeFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\ListaDeFuncionario\ListaDeFuncionario\obj\Debug\net5.0\ListaDeFuncionario.dll
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\ListaDeFuncionario\ListaDeFuncionario\obj\Debug\net5.0\ref\ListaDeFuncionario.dll
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\ListaDeFuncionario\ListaDeFuncionario\obj\Debug\net5.0\ListaDeFuncionario.pdb
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\ListaDeFuncionario\ListaDeFuncionario\obj\Debug\net5.0\ListaDeFuncionario.genruntimeconfig.cache

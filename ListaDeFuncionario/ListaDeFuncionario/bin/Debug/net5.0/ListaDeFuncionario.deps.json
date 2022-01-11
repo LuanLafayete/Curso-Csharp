@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ListaDeFuncionario/1.0.0": {
+        "runtime": {
+          "ListaDeFuncionario.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ListaDeFuncionario/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

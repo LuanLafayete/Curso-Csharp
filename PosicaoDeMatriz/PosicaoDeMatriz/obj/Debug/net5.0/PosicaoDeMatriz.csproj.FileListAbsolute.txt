@@ -1,0 +1,16 @@
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\PosicaoDeMatriz\PosicaoDeMatriz\bin\Debug\net5.0\PosicaoDeMatriz.exe
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\PosicaoDeMatriz\PosicaoDeMatriz\bin\Debug\net5.0\PosicaoDeMatriz.deps.json
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\PosicaoDeMatriz\PosicaoDeMatriz\bin\Debug\net5.0\PosicaoDeMatriz.runtimeconfig.json
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\PosicaoDeMatriz\PosicaoDeMatriz\bin\Debug\net5.0\PosicaoDeMatriz.runtimeconfig.dev.json
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\PosicaoDeMatriz\PosicaoDeMatriz\bin\Debug\net5.0\PosicaoDeMatriz.dll
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\PosicaoDeMatriz\PosicaoDeMatriz\bin\Debug\net5.0\ref\PosicaoDeMatriz.dll
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\PosicaoDeMatriz\PosicaoDeMatriz\bin\Debug\net5.0\PosicaoDeMatriz.pdb
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\PosicaoDeMatriz\PosicaoDeMatriz\obj\Debug\net5.0\PosicaoDeMatriz.csproj.AssemblyReference.cache
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\PosicaoDeMatriz\PosicaoDeMatriz\obj\Debug\net5.0\PosicaoDeMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\PosicaoDeMatriz\PosicaoDeMatriz\obj\Debug\net5.0\PosicaoDeMatriz.AssemblyInfoInputs.cache
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\PosicaoDeMatriz\PosicaoDeMatriz\obj\Debug\net5.0\PosicaoDeMatriz.AssemblyInfo.cs
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\PosicaoDeMatriz\PosicaoDeMatriz\obj\Debug\net5.0\PosicaoDeMatriz.csproj.CoreCompileInputs.cache
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\PosicaoDeMatriz\PosicaoDeMatriz\obj\Debug\net5.0\PosicaoDeMatriz.dll
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\PosicaoDeMatriz\PosicaoDeMatriz\obj\Debug\net5.0\ref\PosicaoDeMatriz.dll
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\PosicaoDeMatriz\PosicaoDeMatriz\obj\Debug\net5.0\PosicaoDeMatriz.pdb
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\PosicaoDeMatriz\PosicaoDeMatriz\obj\Debug\net5.0\PosicaoDeMatriz.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\WorkerContract\WorkerContract\bin\Debug\net5.0\WorkerContract.exe
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\WorkerContract\WorkerContract\bin\Debug\net5.0\WorkerContract.deps.json
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\WorkerContract\WorkerContract\bin\Debug\net5.0\WorkerContract.runtimeconfig.json
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\WorkerContract\WorkerContract\bin\Debug\net5.0\WorkerContract.runtimeconfig.dev.json
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\WorkerContract\WorkerContract\bin\Debug\net5.0\WorkerContract.dll
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\WorkerContract\WorkerContract\bin\Debug\net5.0\ref\WorkerContract.dll
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\WorkerContract\WorkerContract\bin\Debug\net5.0\WorkerContract.pdb
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\WorkerContract\WorkerContract\obj\Debug\net5.0\WorkerContract.csproj.AssemblyReference.cache
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\WorkerContract\WorkerContract\obj\Debug\net5.0\WorkerContract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\WorkerContract\WorkerContract\obj\Debug\net5.0\WorkerContract.AssemblyInfoInputs.cache
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\WorkerContract\WorkerContract\obj\Debug\net5.0\WorkerContract.AssemblyInfo.cs
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\WorkerContract\WorkerContract\obj\Debug\net5.0\WorkerContract.csproj.CoreCompileInputs.cache
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\WorkerContract\WorkerContract\obj\Debug\net5.0\WorkerContract.dll
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\WorkerContract\WorkerContract\obj\Debug\net5.0\ref\WorkerContract.dll
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\WorkerContract\WorkerContract\obj\Debug\net5.0\WorkerContract.pdb
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\WorkerContract\WorkerContract\obj\Debug\net5.0\WorkerContract.genruntimeconfig.cache

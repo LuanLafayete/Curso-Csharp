@@ -1,0 +1,16 @@
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\PostAndComment\PostAndComment\obj\Debug\net5.0\PostAndComment.csproj.AssemblyReference.cache
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\PostAndComment\PostAndComment\obj\Debug\net5.0\PostAndComment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\PostAndComment\PostAndComment\obj\Debug\net5.0\PostAndComment.AssemblyInfoInputs.cache
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\PostAndComment\PostAndComment\obj\Debug\net5.0\PostAndComment.AssemblyInfo.cs
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\PostAndComment\PostAndComment\obj\Debug\net5.0\PostAndComment.csproj.CoreCompileInputs.cache
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\PostAndComment\PostAndComment\bin\Debug\net5.0\PostAndComment.exe
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\PostAndComment\PostAndComment\bin\Debug\net5.0\PostAndComment.deps.json
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\PostAndComment\PostAndComment\bin\Debug\net5.0\PostAndComment.runtimeconfig.json
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\PostAndComment\PostAndComment\bin\Debug\net5.0\PostAndComment.runtimeconfig.dev.json
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\PostAndComment\PostAndComment\bin\Debug\net5.0\PostAndComment.dll
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\PostAndComment\PostAndComment\bin\Debug\net5.0\ref\PostAndComment.dll
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\PostAndComment\PostAndComment\bin\Debug\net5.0\PostAndComment.pdb
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\PostAndComment\PostAndComment\obj\Debug\net5.0\PostAndComment.dll
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\PostAndComment\PostAndComment\obj\Debug\net5.0\ref\PostAndComment.dll
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\PostAndComment\PostAndComment\obj\Debug\net5.0\PostAndComment.pdb
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\PostAndComment\PostAndComment\obj\Debug\net5.0\PostAndComment.genruntimeconfig.cache

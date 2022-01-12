@@ -1,0 +1,16 @@
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\Enumeracoes\Enumeracoes\obj\Debug\net5.0\Enumeracoes.csproj.AssemblyReference.cache
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\Enumeracoes\Enumeracoes\obj\Debug\net5.0\Enumeracoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\Enumeracoes\Enumeracoes\obj\Debug\net5.0\Enumeracoes.AssemblyInfoInputs.cache
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\Enumeracoes\Enumeracoes\obj\Debug\net5.0\Enumeracoes.AssemblyInfo.cs
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\Enumeracoes\Enumeracoes\obj\Debug\net5.0\Enumeracoes.csproj.CoreCompileInputs.cache
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\Enumeracoes\Enumeracoes\bin\Debug\net5.0\Enumeracoes.exe
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\Enumeracoes\Enumeracoes\bin\Debug\net5.0\Enumeracoes.deps.json
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\Enumeracoes\Enumeracoes\bin\Debug\net5.0\Enumeracoes.runtimeconfig.json
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\Enumeracoes\Enumeracoes\bin\Debug\net5.0\Enumeracoes.runtimeconfig.dev.json
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\Enumeracoes\Enumeracoes\bin\Debug\net5.0\Enumeracoes.dll
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\Enumeracoes\Enumeracoes\bin\Debug\net5.0\ref\Enumeracoes.dll
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\Enumeracoes\Enumeracoes\bin\Debug\net5.0\Enumeracoes.pdb
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\Enumeracoes\Enumeracoes\obj\Debug\net5.0\Enumeracoes.dll
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\Enumeracoes\Enumeracoes\obj\Debug\net5.0\ref\Enumeracoes.dll
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\Enumeracoes\Enumeracoes\obj\Debug\net5.0\Enumeracoes.pdb
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\Enumeracoes\Enumeracoes\obj\Debug\net5.0\Enumeracoes.genruntimeconfig.cache

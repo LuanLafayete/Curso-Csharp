@@ -1,0 +1,16 @@
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\BancoParaEmpresas\BancoParaEmpresas\obj\Debug\net5.0\BancoParaEmpresas.csproj.AssemblyReference.cache
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\BancoParaEmpresas\BancoParaEmpresas\obj\Debug\net5.0\BancoParaEmpresas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\BancoParaEmpresas\BancoParaEmpresas\obj\Debug\net5.0\BancoParaEmpresas.AssemblyInfoInputs.cache
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\BancoParaEmpresas\BancoParaEmpresas\obj\Debug\net5.0\BancoParaEmpresas.AssemblyInfo.cs
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\BancoParaEmpresas\BancoParaEmpresas\obj\Debug\net5.0\BancoParaEmpresas.csproj.CoreCompileInputs.cache
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\BancoParaEmpresas\BancoParaEmpresas\bin\Debug\net5.0\BancoParaEmpresas.exe
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\BancoParaEmpresas\BancoParaEmpresas\bin\Debug\net5.0\BancoParaEmpresas.deps.json
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\BancoParaEmpresas\BancoParaEmpresas\bin\Debug\net5.0\BancoParaEmpresas.runtimeconfig.json
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\BancoParaEmpresas\BancoParaEmpresas\bin\Debug\net5.0\BancoParaEmpresas.runtimeconfig.dev.json
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\BancoParaEmpresas\BancoParaEmpresas\bin\Debug\net5.0\BancoParaEmpresas.dll
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\BancoParaEmpresas\BancoParaEmpresas\bin\Debug\net5.0\ref\BancoParaEmpresas.dll
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\BancoParaEmpresas\BancoParaEmpresas\bin\Debug\net5.0\BancoParaEmpresas.pdb
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\BancoParaEmpresas\BancoParaEmpresas\obj\Debug\net5.0\BancoParaEmpresas.dll
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\BancoParaEmpresas\BancoParaEmpresas\obj\Debug\net5.0\ref\BancoParaEmpresas.dll
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\BancoParaEmpresas\BancoParaEmpresas\obj\Debug\net5.0\BancoParaEmpresas.pdb
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\BancoParaEmpresas\BancoParaEmpresas\obj\Debug\net5.0\BancoParaEmpresas.genruntimeconfig.cache

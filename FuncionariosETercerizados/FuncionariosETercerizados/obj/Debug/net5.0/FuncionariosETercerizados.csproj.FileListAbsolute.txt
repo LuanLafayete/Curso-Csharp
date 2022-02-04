@@ -1,0 +1,16 @@
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\FuncionariosETercerizados\FuncionariosETercerizados\bin\Debug\net5.0\FuncionariosETercerizados.exe
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\FuncionariosETercerizados\FuncionariosETercerizados\bin\Debug\net5.0\FuncionariosETercerizados.deps.json
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\FuncionariosETercerizados\FuncionariosETercerizados\bin\Debug\net5.0\FuncionariosETercerizados.runtimeconfig.json
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\FuncionariosETercerizados\FuncionariosETercerizados\bin\Debug\net5.0\FuncionariosETercerizados.runtimeconfig.dev.json
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\FuncionariosETercerizados\FuncionariosETercerizados\bin\Debug\net5.0\FuncionariosETercerizados.dll
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\FuncionariosETercerizados\FuncionariosETercerizados\bin\Debug\net5.0\ref\FuncionariosETercerizados.dll
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\FuncionariosETercerizados\FuncionariosETercerizados\bin\Debug\net5.0\FuncionariosETercerizados.pdb
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\FuncionariosETercerizados\FuncionariosETercerizados\obj\Debug\net5.0\FuncionariosETercerizados.csproj.AssemblyReference.cache
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\FuncionariosETercerizados\FuncionariosETercerizados\obj\Debug\net5.0\FuncionariosETercerizados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\FuncionariosETercerizados\FuncionariosETercerizados\obj\Debug\net5.0\FuncionariosETercerizados.AssemblyInfoInputs.cache
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\FuncionariosETercerizados\FuncionariosETercerizados\obj\Debug\net5.0\FuncionariosETercerizados.AssemblyInfo.cs
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\FuncionariosETercerizados\FuncionariosETercerizados\obj\Debug\net5.0\FuncionariosETercerizados.csproj.CoreCompileInputs.cache
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\FuncionariosETercerizados\FuncionariosETercerizados\obj\Debug\net5.0\FuncionariosETercerizados.dll
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\FuncionariosETercerizados\FuncionariosETercerizados\obj\Debug\net5.0\ref\FuncionariosETercerizados.dll
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\FuncionariosETercerizados\FuncionariosETercerizados\obj\Debug\net5.0\FuncionariosETercerizados.pdb
+C:\Users\luanr\Desktop\workspace\ws-CursoCShap\ws-vs2019\FuncionariosETercerizados\FuncionariosETercerizados\obj\Debug\net5.0\FuncionariosETercerizados.genruntimeconfig.cache

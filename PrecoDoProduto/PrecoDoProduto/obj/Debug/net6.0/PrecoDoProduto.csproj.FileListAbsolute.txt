@@ -1,0 +1,15 @@
+C:\Users\luanr\Desktop\PrecoDoProduto\PrecoDoProduto\bin\Debug\net6.0\PrecoDoProduto.exe
+C:\Users\luanr\Desktop\PrecoDoProduto\PrecoDoProduto\bin\Debug\net6.0\PrecoDoProduto.deps.json
+C:\Users\luanr\Desktop\PrecoDoProduto\PrecoDoProduto\bin\Debug\net6.0\PrecoDoProduto.runtimeconfig.json
+C:\Users\luanr\Desktop\PrecoDoProduto\PrecoDoProduto\bin\Debug\net6.0\PrecoDoProduto.dll
+C:\Users\luanr\Desktop\PrecoDoProduto\PrecoDoProduto\bin\Debug\net6.0\PrecoDoProduto.pdb
+C:\Users\luanr\Desktop\PrecoDoProduto\PrecoDoProduto\obj\Debug\net6.0\PrecoDoProduto.csproj.AssemblyReference.cache
+C:\Users\luanr\Desktop\PrecoDoProduto\PrecoDoProduto\obj\Debug\net6.0\PrecoDoProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanr\Desktop\PrecoDoProduto\PrecoDoProduto\obj\Debug\net6.0\PrecoDoProduto.AssemblyInfoInputs.cache
+C:\Users\luanr\Desktop\PrecoDoProduto\PrecoDoProduto\obj\Debug\net6.0\PrecoDoProduto.AssemblyInfo.cs
+C:\Users\luanr\Desktop\PrecoDoProduto\PrecoDoProduto\obj\Debug\net6.0\PrecoDoProduto.csproj.CoreCompileInputs.cache
+C:\Users\luanr\Desktop\PrecoDoProduto\PrecoDoProduto\obj\Debug\net6.0\PrecoDoProduto.dll
+C:\Users\luanr\Desktop\PrecoDoProduto\PrecoDoProduto\obj\Debug\net6.0\refint\PrecoDoProduto.dll
+C:\Users\luanr\Desktop\PrecoDoProduto\PrecoDoProduto\obj\Debug\net6.0\PrecoDoProduto.pdb
+C:\Users\luanr\Desktop\PrecoDoProduto\PrecoDoProduto\obj\Debug\net6.0\PrecoDoProduto.genruntimeconfig.cache
+C:\Users\luanr\Desktop\PrecoDoProduto\PrecoDoProduto\obj\Debug\net6.0\ref\PrecoDoProduto.dll

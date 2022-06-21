@@ -1,0 +1,15 @@
+C:\Users\luanr\Desktop\PraticaDeHeranca\PraticaDeHeranca\bin\Debug\net6.0\PraticaDeHeranca.exe
+C:\Users\luanr\Desktop\PraticaDeHeranca\PraticaDeHeranca\bin\Debug\net6.0\PraticaDeHeranca.deps.json
+C:\Users\luanr\Desktop\PraticaDeHeranca\PraticaDeHeranca\bin\Debug\net6.0\PraticaDeHeranca.runtimeconfig.json
+C:\Users\luanr\Desktop\PraticaDeHeranca\PraticaDeHeranca\bin\Debug\net6.0\PraticaDeHeranca.dll
+C:\Users\luanr\Desktop\PraticaDeHeranca\PraticaDeHeranca\bin\Debug\net6.0\PraticaDeHeranca.pdb
+C:\Users\luanr\Desktop\PraticaDeHeranca\PraticaDeHeranca\obj\Debug\net6.0\PraticaDeHeranca.csproj.AssemblyReference.cache
+C:\Users\luanr\Desktop\PraticaDeHeranca\PraticaDeHeranca\obj\Debug\net6.0\PraticaDeHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanr\Desktop\PraticaDeHeranca\PraticaDeHeranca\obj\Debug\net6.0\PraticaDeHeranca.AssemblyInfoInputs.cache
+C:\Users\luanr\Desktop\PraticaDeHeranca\PraticaDeHeranca\obj\Debug\net6.0\PraticaDeHeranca.AssemblyInfo.cs
+C:\Users\luanr\Desktop\PraticaDeHeranca\PraticaDeHeranca\obj\Debug\net6.0\PraticaDeHeranca.csproj.CoreCompileInputs.cache
+C:\Users\luanr\Desktop\PraticaDeHeranca\PraticaDeHeranca\obj\Debug\net6.0\PraticaDeHeranca.dll
+C:\Users\luanr\Desktop\PraticaDeHeranca\PraticaDeHeranca\obj\Debug\net6.0\refint\PraticaDeHeranca.dll
+C:\Users\luanr\Desktop\PraticaDeHeranca\PraticaDeHeranca\obj\Debug\net6.0\PraticaDeHeranca.pdb
+C:\Users\luanr\Desktop\PraticaDeHeranca\PraticaDeHeranca\obj\Debug\net6.0\PraticaDeHeranca.genruntimeconfig.cache
+C:\Users\luanr\Desktop\PraticaDeHeranca\PraticaDeHeranca\obj\Debug\net6.0\ref\PraticaDeHeranca.dll

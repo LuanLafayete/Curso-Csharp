@@ -1,0 +1,15 @@
+C:\Users\luanr\Desktop\PraticaDeMetodosAbstratos\PraticaDeMetodosAbstratos\bin\Debug\net6.0\PraticaDeMetodosAbstratos.exe
+C:\Users\luanr\Desktop\PraticaDeMetodosAbstratos\PraticaDeMetodosAbstratos\bin\Debug\net6.0\PraticaDeMetodosAbstratos.deps.json
+C:\Users\luanr\Desktop\PraticaDeMetodosAbstratos\PraticaDeMetodosAbstratos\bin\Debug\net6.0\PraticaDeMetodosAbstratos.runtimeconfig.json
+C:\Users\luanr\Desktop\PraticaDeMetodosAbstratos\PraticaDeMetodosAbstratos\bin\Debug\net6.0\PraticaDeMetodosAbstratos.dll
+C:\Users\luanr\Desktop\PraticaDeMetodosAbstratos\PraticaDeMetodosAbstratos\bin\Debug\net6.0\PraticaDeMetodosAbstratos.pdb
+C:\Users\luanr\Desktop\PraticaDeMetodosAbstratos\PraticaDeMetodosAbstratos\obj\Debug\net6.0\PraticaDeMetodosAbstratos.csproj.AssemblyReference.cache
+C:\Users\luanr\Desktop\PraticaDeMetodosAbstratos\PraticaDeMetodosAbstratos\obj\Debug\net6.0\PraticaDeMetodosAbstratos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanr\Desktop\PraticaDeMetodosAbstratos\PraticaDeMetodosAbstratos\obj\Debug\net6.0\PraticaDeMetodosAbstratos.AssemblyInfoInputs.cache
+C:\Users\luanr\Desktop\PraticaDeMetodosAbstratos\PraticaDeMetodosAbstratos\obj\Debug\net6.0\PraticaDeMetodosAbstratos.AssemblyInfo.cs
+C:\Users\luanr\Desktop\PraticaDeMetodosAbstratos\PraticaDeMetodosAbstratos\obj\Debug\net6.0\PraticaDeMetodosAbstratos.csproj.CoreCompileInputs.cache
+C:\Users\luanr\Desktop\PraticaDeMetodosAbstratos\PraticaDeMetodosAbstratos\obj\Debug\net6.0\PraticaDeMetodosAbstratos.dll
+C:\Users\luanr\Desktop\PraticaDeMetodosAbstratos\PraticaDeMetodosAbstratos\obj\Debug\net6.0\refint\PraticaDeMetodosAbstratos.dll
+C:\Users\luanr\Desktop\PraticaDeMetodosAbstratos\PraticaDeMetodosAbstratos\obj\Debug\net6.0\PraticaDeMetodosAbstratos.pdb
+C:\Users\luanr\Desktop\PraticaDeMetodosAbstratos\PraticaDeMetodosAbstratos\obj\Debug\net6.0\PraticaDeMetodosAbstratos.genruntimeconfig.cache
+C:\Users\luanr\Desktop\PraticaDeMetodosAbstratos\PraticaDeMetodosAbstratos\obj\Debug\net6.0\ref\PraticaDeMetodosAbstratos.dll

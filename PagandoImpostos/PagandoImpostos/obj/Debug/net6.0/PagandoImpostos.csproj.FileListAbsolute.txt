@@ -1,0 +1,15 @@
+C:\Users\luanr\Desktop\PagandoImpostos\PagandoImpostos\bin\Debug\net6.0\PagandoImpostos.exe
+C:\Users\luanr\Desktop\PagandoImpostos\PagandoImpostos\bin\Debug\net6.0\PagandoImpostos.deps.json
+C:\Users\luanr\Desktop\PagandoImpostos\PagandoImpostos\bin\Debug\net6.0\PagandoImpostos.runtimeconfig.json
+C:\Users\luanr\Desktop\PagandoImpostos\PagandoImpostos\bin\Debug\net6.0\PagandoImpostos.dll
+C:\Users\luanr\Desktop\PagandoImpostos\PagandoImpostos\bin\Debug\net6.0\PagandoImpostos.pdb
+C:\Users\luanr\Desktop\PagandoImpostos\PagandoImpostos\obj\Debug\net6.0\PagandoImpostos.csproj.AssemblyReference.cache
+C:\Users\luanr\Desktop\PagandoImpostos\PagandoImpostos\obj\Debug\net6.0\PagandoImpostos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanr\Desktop\PagandoImpostos\PagandoImpostos\obj\Debug\net6.0\PagandoImpostos.AssemblyInfoInputs.cache
+C:\Users\luanr\Desktop\PagandoImpostos\PagandoImpostos\obj\Debug\net6.0\PagandoImpostos.AssemblyInfo.cs
+C:\Users\luanr\Desktop\PagandoImpostos\PagandoImpostos\obj\Debug\net6.0\PagandoImpostos.csproj.CoreCompileInputs.cache
+C:\Users\luanr\Desktop\PagandoImpostos\PagandoImpostos\obj\Debug\net6.0\PagandoImpostos.dll
+C:\Users\luanr\Desktop\PagandoImpostos\PagandoImpostos\obj\Debug\net6.0\refint\PagandoImpostos.dll
+C:\Users\luanr\Desktop\PagandoImpostos\PagandoImpostos\obj\Debug\net6.0\PagandoImpostos.pdb
+C:\Users\luanr\Desktop\PagandoImpostos\PagandoImpostos\obj\Debug\net6.0\PagandoImpostos.genruntimeconfig.cache
+C:\Users\luanr\Desktop\PagandoImpostos\PagandoImpostos\obj\Debug\net6.0\ref\PagandoImpostos.dll

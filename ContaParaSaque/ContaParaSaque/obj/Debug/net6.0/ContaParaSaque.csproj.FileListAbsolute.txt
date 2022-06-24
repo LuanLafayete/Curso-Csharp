@@ -1,0 +1,15 @@
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\ContaParaSaque\ContaParaSaque\bin\Debug\net6.0\ContaParaSaque.exe
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\ContaParaSaque\ContaParaSaque\bin\Debug\net6.0\ContaParaSaque.deps.json
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\ContaParaSaque\ContaParaSaque\bin\Debug\net6.0\ContaParaSaque.runtimeconfig.json
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\ContaParaSaque\ContaParaSaque\bin\Debug\net6.0\ContaParaSaque.dll
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\ContaParaSaque\ContaParaSaque\bin\Debug\net6.0\ContaParaSaque.pdb
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\ContaParaSaque\ContaParaSaque\obj\Debug\net6.0\ContaParaSaque.csproj.AssemblyReference.cache
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\ContaParaSaque\ContaParaSaque\obj\Debug\net6.0\ContaParaSaque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\ContaParaSaque\ContaParaSaque\obj\Debug\net6.0\ContaParaSaque.AssemblyInfoInputs.cache
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\ContaParaSaque\ContaParaSaque\obj\Debug\net6.0\ContaParaSaque.AssemblyInfo.cs
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\ContaParaSaque\ContaParaSaque\obj\Debug\net6.0\ContaParaSaque.csproj.CoreCompileInputs.cache
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\ContaParaSaque\ContaParaSaque\obj\Debug\net6.0\ContaParaSaque.dll
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\ContaParaSaque\ContaParaSaque\obj\Debug\net6.0\refint\ContaParaSaque.dll
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\ContaParaSaque\ContaParaSaque\obj\Debug\net6.0\ContaParaSaque.pdb
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\ContaParaSaque\ContaParaSaque\obj\Debug\net6.0\ContaParaSaque.genruntimeconfig.cache
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\ContaParaSaque\ContaParaSaque\obj\Debug\net6.0\ref\ContaParaSaque.dll

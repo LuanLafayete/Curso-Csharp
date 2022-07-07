@@ -1,0 +1,15 @@
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\Path\Path\bin\Debug\net6.0\Path.exe
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\Path\Path\bin\Debug\net6.0\Path.deps.json
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\Path\Path\bin\Debug\net6.0\Path.runtimeconfig.json
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\Path\Path\bin\Debug\net6.0\Path.dll
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\Path\Path\bin\Debug\net6.0\Path.pdb
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\Path\Path\obj\Debug\net6.0\Path.csproj.AssemblyReference.cache
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\Path\Path\obj\Debug\net6.0\Path.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\Path\Path\obj\Debug\net6.0\Path.AssemblyInfoInputs.cache
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\Path\Path\obj\Debug\net6.0\Path.AssemblyInfo.cs
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\Path\Path\obj\Debug\net6.0\Path.csproj.CoreCompileInputs.cache
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\Path\Path\obj\Debug\net6.0\Path.dll
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\Path\Path\obj\Debug\net6.0\refint\Path.dll
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\Path\Path\obj\Debug\net6.0\Path.pdb
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\Path\Path\obj\Debug\net6.0\Path.genruntimeconfig.cache
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\Path\Path\obj\Debug\net6.0\ref\Path.dll

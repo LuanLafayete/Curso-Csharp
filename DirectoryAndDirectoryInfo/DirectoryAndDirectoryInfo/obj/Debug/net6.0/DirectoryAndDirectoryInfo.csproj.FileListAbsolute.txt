@@ -1,0 +1,15 @@
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\net6.0\DirectoryAndDirectoryInfo.csproj.AssemblyReference.cache
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\net6.0\DirectoryAndDirectoryInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\net6.0\DirectoryAndDirectoryInfo.AssemblyInfoInputs.cache
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\net6.0\DirectoryAndDirectoryInfo.AssemblyInfo.cs
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\net6.0\DirectoryAndDirectoryInfo.csproj.CoreCompileInputs.cache
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\bin\Debug\net6.0\DirectoryAndDirectoryInfo.exe
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\bin\Debug\net6.0\DirectoryAndDirectoryInfo.deps.json
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\bin\Debug\net6.0\DirectoryAndDirectoryInfo.runtimeconfig.json
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\bin\Debug\net6.0\DirectoryAndDirectoryInfo.dll
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\bin\Debug\net6.0\DirectoryAndDirectoryInfo.pdb
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\net6.0\DirectoryAndDirectoryInfo.dll
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\net6.0\refint\DirectoryAndDirectoryInfo.dll
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\net6.0\DirectoryAndDirectoryInfo.pdb
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\net6.0\DirectoryAndDirectoryInfo.genruntimeconfig.cache
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\net6.0\ref\DirectoryAndDirectoryInfo.dll

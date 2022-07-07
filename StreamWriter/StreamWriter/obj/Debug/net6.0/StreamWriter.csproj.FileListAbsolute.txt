@@ -1,0 +1,15 @@
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\StreamWriter\StreamWriter\bin\Debug\net6.0\StreamWriter.exe
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\StreamWriter\StreamWriter\bin\Debug\net6.0\StreamWriter.deps.json
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\StreamWriter\StreamWriter\bin\Debug\net6.0\StreamWriter.runtimeconfig.json
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\StreamWriter\StreamWriter\bin\Debug\net6.0\StreamWriter.dll
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\StreamWriter\StreamWriter\bin\Debug\net6.0\StreamWriter.pdb
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\StreamWriter\StreamWriter\obj\Debug\net6.0\StreamWriter.csproj.AssemblyReference.cache
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\StreamWriter\StreamWriter\obj\Debug\net6.0\StreamWriter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\StreamWriter\StreamWriter\obj\Debug\net6.0\StreamWriter.AssemblyInfoInputs.cache
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\StreamWriter\StreamWriter\obj\Debug\net6.0\StreamWriter.AssemblyInfo.cs
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\StreamWriter\StreamWriter\obj\Debug\net6.0\StreamWriter.csproj.CoreCompileInputs.cache
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\StreamWriter\StreamWriter\obj\Debug\net6.0\StreamWriter.dll
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\StreamWriter\StreamWriter\obj\Debug\net6.0\refint\StreamWriter.dll
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\StreamWriter\StreamWriter\obj\Debug\net6.0\StreamWriter.pdb
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\StreamWriter\StreamWriter\obj\Debug\net6.0\StreamWriter.genruntimeconfig.cache
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\StreamWriter\StreamWriter\obj\Debug\net6.0\ref\StreamWriter.dll

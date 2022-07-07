@@ -1,0 +1,15 @@
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\FileStreamAndStreamReader\FileStreamAndStreamReader\bin\Debug\net6.0\FileStreamAndStreamReader.exe
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\FileStreamAndStreamReader\FileStreamAndStreamReader\bin\Debug\net6.0\FileStreamAndStreamReader.deps.json
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\FileStreamAndStreamReader\FileStreamAndStreamReader\bin\Debug\net6.0\FileStreamAndStreamReader.runtimeconfig.json
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\FileStreamAndStreamReader\FileStreamAndStreamReader\bin\Debug\net6.0\FileStreamAndStreamReader.dll
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\FileStreamAndStreamReader\FileStreamAndStreamReader\bin\Debug\net6.0\FileStreamAndStreamReader.pdb
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\FileStreamAndStreamReader\FileStreamAndStreamReader\obj\Debug\net6.0\FileStreamAndStreamReader.csproj.AssemblyReference.cache
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\FileStreamAndStreamReader\FileStreamAndStreamReader\obj\Debug\net6.0\FileStreamAndStreamReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\FileStreamAndStreamReader\FileStreamAndStreamReader\obj\Debug\net6.0\FileStreamAndStreamReader.AssemblyInfoInputs.cache
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\FileStreamAndStreamReader\FileStreamAndStreamReader\obj\Debug\net6.0\FileStreamAndStreamReader.AssemblyInfo.cs
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\FileStreamAndStreamReader\FileStreamAndStreamReader\obj\Debug\net6.0\FileStreamAndStreamReader.csproj.CoreCompileInputs.cache
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\FileStreamAndStreamReader\FileStreamAndStreamReader\obj\Debug\net6.0\FileStreamAndStreamReader.dll
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\FileStreamAndStreamReader\FileStreamAndStreamReader\obj\Debug\net6.0\refint\FileStreamAndStreamReader.dll
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\FileStreamAndStreamReader\FileStreamAndStreamReader\obj\Debug\net6.0\FileStreamAndStreamReader.pdb
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\FileStreamAndStreamReader\FileStreamAndStreamReader\obj\Debug\net6.0\FileStreamAndStreamReader.genruntimeconfig.cache
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\FileStreamAndStreamReader\FileStreamAndStreamReader\obj\Debug\net6.0\ref\FileStreamAndStreamReader.dll

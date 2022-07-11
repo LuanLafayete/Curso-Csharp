@@ -1,0 +1,15 @@
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\ProcessamentoDeContratos\ProcessamentoDeContratos\bin\Debug\net6.0\ProcessamentoDeContratos.exe
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\ProcessamentoDeContratos\ProcessamentoDeContratos\bin\Debug\net6.0\ProcessamentoDeContratos.deps.json
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\ProcessamentoDeContratos\ProcessamentoDeContratos\bin\Debug\net6.0\ProcessamentoDeContratos.runtimeconfig.json
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\ProcessamentoDeContratos\ProcessamentoDeContratos\bin\Debug\net6.0\ProcessamentoDeContratos.dll
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\ProcessamentoDeContratos\ProcessamentoDeContratos\bin\Debug\net6.0\ProcessamentoDeContratos.pdb
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\ProcessamentoDeContratos\ProcessamentoDeContratos\obj\Debug\net6.0\ProcessamentoDeContratos.csproj.AssemblyReference.cache
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\ProcessamentoDeContratos\ProcessamentoDeContratos\obj\Debug\net6.0\ProcessamentoDeContratos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\ProcessamentoDeContratos\ProcessamentoDeContratos\obj\Debug\net6.0\ProcessamentoDeContratos.AssemblyInfoInputs.cache
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\ProcessamentoDeContratos\ProcessamentoDeContratos\obj\Debug\net6.0\ProcessamentoDeContratos.AssemblyInfo.cs
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\ProcessamentoDeContratos\ProcessamentoDeContratos\obj\Debug\net6.0\ProcessamentoDeContratos.csproj.CoreCompileInputs.cache
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\ProcessamentoDeContratos\ProcessamentoDeContratos\obj\Debug\net6.0\ProcessamentoDeContratos.dll
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\ProcessamentoDeContratos\ProcessamentoDeContratos\obj\Debug\net6.0\refint\ProcessamentoDeContratos.dll
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\ProcessamentoDeContratos\ProcessamentoDeContratos\obj\Debug\net6.0\ProcessamentoDeContratos.pdb
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\ProcessamentoDeContratos\ProcessamentoDeContratos\obj\Debug\net6.0\ProcessamentoDeContratos.genruntimeconfig.cache
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\ProcessamentoDeContratos\ProcessamentoDeContratos\obj\Debug\net6.0\ref\ProcessamentoDeContratos.dll

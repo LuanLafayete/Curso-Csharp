@@ -1,0 +1,15 @@
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\Interface3\Interface3\bin\Debug\net6.0\Interface3.exe
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\Interface3\Interface3\bin\Debug\net6.0\Interface3.deps.json
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\Interface3\Interface3\bin\Debug\net6.0\Interface3.runtimeconfig.json
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\Interface3\Interface3\bin\Debug\net6.0\Interface3.dll
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\Interface3\Interface3\bin\Debug\net6.0\Interface3.pdb
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\Interface3\Interface3\obj\Debug\net6.0\Interface3.csproj.AssemblyReference.cache
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\Interface3\Interface3\obj\Debug\net6.0\Interface3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\Interface3\Interface3\obj\Debug\net6.0\Interface3.AssemblyInfoInputs.cache
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\Interface3\Interface3\obj\Debug\net6.0\Interface3.AssemblyInfo.cs
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\Interface3\Interface3\obj\Debug\net6.0\Interface3.csproj.CoreCompileInputs.cache
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\Interface3\Interface3\obj\Debug\net6.0\Interface3.dll
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\Interface3\Interface3\obj\Debug\net6.0\refint\Interface3.dll
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\Interface3\Interface3\obj\Debug\net6.0\Interface3.pdb
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\Interface3\Interface3\obj\Debug\net6.0\Interface3.genruntimeconfig.cache
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\Interface3\Interface3\obj\Debug\net6.0\ref\Interface3.dll

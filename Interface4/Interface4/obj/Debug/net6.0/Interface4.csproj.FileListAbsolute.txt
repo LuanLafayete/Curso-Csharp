@@ -1,0 +1,15 @@
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\Interface4\Interface4\bin\Debug\net6.0\Interface4.exe
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\Interface4\Interface4\bin\Debug\net6.0\Interface4.deps.json
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\Interface4\Interface4\bin\Debug\net6.0\Interface4.runtimeconfig.json
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\Interface4\Interface4\bin\Debug\net6.0\Interface4.dll
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\Interface4\Interface4\bin\Debug\net6.0\Interface4.pdb
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\Interface4\Interface4\obj\Debug\net6.0\Interface4.csproj.AssemblyReference.cache
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\Interface4\Interface4\obj\Debug\net6.0\Interface4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\Interface4\Interface4\obj\Debug\net6.0\Interface4.AssemblyInfoInputs.cache
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\Interface4\Interface4\obj\Debug\net6.0\Interface4.AssemblyInfo.cs
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\Interface4\Interface4\obj\Debug\net6.0\Interface4.csproj.CoreCompileInputs.cache
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\Interface4\Interface4\obj\Debug\net6.0\Interface4.dll
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\Interface4\Interface4\obj\Debug\net6.0\refint\Interface4.dll
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\Interface4\Interface4\obj\Debug\net6.0\Interface4.pdb
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\Interface4\Interface4\obj\Debug\net6.0\Interface4.genruntimeconfig.cache
+C:\Users\luanr\Desktop\Programação\01-Curso C Sharp\Interface4\Interface4\obj\Debug\net6.0\ref\Interface4.dll
